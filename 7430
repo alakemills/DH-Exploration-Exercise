@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<script src="https://www.google.com/recaptcha/api.js?hl=en" async="async" defer="defer"></script>
+<link rel="shortcut icon" href="https://transcription.si.edu/sites/all/themes/si_tsc/favicon.ico" type="image/vnd.microsoft.icon" />
+	<title>Florence M. Bailey – Diary  1887 |  Smithsonian Digital Volunteers</title>
+	<meta name="description" content="" />
+	<meta name="author" content="" />
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+
+	<link rel="apple-touch-icon" href="" />
+	<style type="text/css" media="all">
+@import url("https://transcription.si.edu/modules/system/system.base.css?rd9sh6");
+@import url("https://transcription.si.edu/modules/system/system.messages.css?rd9sh6");
+@import url("https://transcription.si.edu/modules/system/system.theme.css?rd9sh6");
+</style>
+<style type="text/css" media="all">
+@import url("https://transcription.si.edu/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.theme.min.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/modules/jquery_update/replace/ui/themes/base/minified/jquery.ui.datepicker.min.css?rd9sh6");
+</style>
+<style type="text/css" media="all">
+@import url("https://transcription.si.edu/modules/field/theme/field.css?rd9sh6");
+@import url("https://transcription.si.edu/modules/node/node.css?rd9sh6");
+@import url("https://transcription.si.edu/modules/search/search.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/modules/transcribr_site/transcribr_site.css?rd9sh6");
+@import url("https://transcription.si.edu/modules/user/user.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/modules/views/css/views.css?rd9sh6");
+</style>
+<style type="text/css" media="all">
+@import url("https://transcription.si.edu/sites/all/modules/ctools/css/ctools.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/modules/feedback_simple/feedback_simple.css?rd9sh6");
+</style>
+<style type="text/css" media="all">
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/screen.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/grid_12_col.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/browse.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/project.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/transcription.css?rd9sh6");
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/freezeframe.js/build/css/freezeframe_styles.min.css?rd9sh6");
+</style>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Ultra|Tauri&amp;rd9sh6" media="all" />
+<style type="text/css" media="all">
+@import url("https://transcription.si.edu/sites/all/themes/si_tsc/scripts/colorbox.css?rd9sh6");
+</style>
+	<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/jquery_update/replace/jquery/3.4/jquery.min.js?v=3.4.1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.migrateMute=true;jQuery.migrateTrace=false;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/jquery_update/replace/jquery-migrate/3/jquery-migrate.min.js?v=3"></script>
+<script type="text/javascript" src="https://transcription.si.edu/misc/jquery-extend-3.4.0.js?v=3.4.1"></script>
+<script type="text/javascript" src="https://transcription.si.edu/misc/jquery-html-prefilter-3.5.0-backport.js?v=3.4.1"></script>
+<script type="text/javascript" src="https://transcription.si.edu/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://transcription.si.edu/misc/drupal.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/jquery_update/replace/ui/ui/minified/jquery.ui.datepicker.min.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://transcription.si.edu/misc/ui/jquery.ui.datepicker-1.13.0-backport.js?v=1.10.2"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/json2.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/imagesloaded.pkgd.min.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/masonry.pkgd.min.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/jquery.jscroll.min.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/jquery.colorbox.min.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/scrollspy.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/freezeframe.js/src/js/freezeframe.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/jquery.cookie.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/themes/si_tsc/scripts/main.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/captcha/captcha.js?rd9sh6"></script>
+<script type="text/javascript" src="https://transcription.si.edu/sites/all/modules/google_analytics/googleanalytics.js?rd9sh6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-41739514-1", {"cookieDomain":"auto"});ga("require", "displayfeatures");ga("send", "pageview");
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"si_tsc","theme_token":"lh75ZRrLX6p9jx3TRzYV_Qxg5G1HBw23f8_jzTdVw2U","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/3.4\/jquery.min.js":1,"0":1,"sites\/all\/modules\/jquery_update\/replace\/jquery-migrate\/3\/jquery-migrate.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"misc\/ui\/jquery.ui.datepicker-1.13.0-backport.js":1,"sites\/all\/themes\/si_tsc\/scripts\/json2.js":1,"sites\/all\/themes\/si_tsc\/scripts\/imagesloaded.pkgd.min.js":1,"sites\/all\/themes\/si_tsc\/scripts\/masonry.pkgd.min.js":1,"sites\/all\/themes\/si_tsc\/scripts\/jquery.jscroll.min.js":1,"sites\/all\/themes\/si_tsc\/scripts\/jquery.colorbox.min.js":1,"sites\/all\/themes\/si_tsc\/scripts\/scrollspy.js":1,"sites\/all\/themes\/si_tsc\/scripts\/freezeframe.js\/src\/js\/freezeframe.js":1,"sites\/all\/themes\/si_tsc\/scripts\/jquery.cookie.js":1,"sites\/all\/themes\/si_tsc\/scripts\/main.js":1,"sites\/all\/modules\/captcha\/captcha.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"1":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"sites\/all\/modules\/transcribr_featured\/transcribr_featured.css":1,"sites\/all\/modules\/transcribr_site\/transcribr_site.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/feedback_simple\/feedback_simple.css":1,"sites\/all\/themes\/si_tsc\/scripts\/screen.css":1,"sites\/all\/themes\/si_tsc\/scripts\/grid_12_col.css":1,"sites\/all\/themes\/si_tsc\/scripts\/browse.css":1,"sites\/all\/themes\/si_tsc\/scripts\/project.css":1,"sites\/all\/themes\/si_tsc\/scripts\/transcription.css":1,"sites\/all\/themes\/si_tsc\/scripts\/freezeframe.js\/build\/css\/freezeframe_styles.min.css":1,"sites\/all\/themes\/si_tsc\/css\/print.css":1,"\/\/fonts.googleapis.com\/css?family=Ultra|Tauri":1,"sites\/all\/themes\/si_tsc\/scripts\/jquery-ui-1.9.2.custom.min.css":1,"sites\/all\/themes\/si_tsc\/scripts\/colorbox.css":1}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-project page-project- page-project-7430" >
+	<div id="skip-link">
+		<a href="#the-content" class="element-invisible element-focusable">Skip to main content</a>
+	</div>
+		<div id="header">
+  <div id="header-wrapper">
+    <div id="header-top">
+      <a href="/" title="Smithsonian Transcription Center Home"><div id="logo"><img src="/sites/all/themes/si_tsc/images/header/logo.png" alt="Smithsonian" class="print-only" /></div></a>
+      <div id="header-navigation">
+        <div><a href="/">Home</a></div>
+<div class="submenu"><a href="/browse?sort=latest" title="Browse Projects">Projects</a><div id="header-navigation-submenu-projects" class="container-12">
+<ul id="nav-group-menu">
+	<li class="themes"><a href="javaScript:void(0)" style="cursor:default" title="Browse Projects by Themes">Themes</a>
+		<ul class="submenu">
+			<li><a href="/browse?filter=collection:10" title="See all projects in African American History">African American History</a></li>
+			<li><a href="/browse?filter=collection:1" title="See all projects in American Experience">American Experience</a></li>
+			<li><a href="/browse?filter=collection:9" title="See all projects in Art & Design">Art & Design</a></li>
+			<li><a href="/browse?filter=collection:19" title="See all projects in Audio Collections">Audio Collections</a></li>
+			<li><a href="/browse?filter=collection:5" title="See all projects in Civil War Era">Civil War Era</a></li>
+			<li><a href="/browse?filter=collection:8" title="See all projects in Freedmen's Bureau">Freedmen's Bureau</a></li>
+			<li><a href="/browse?filter=collection:3" title="See all projects in Mysteries of the Universe">Mysteries of the Universe</a></li>
+			<li><a href="/browse?filter=collection:11" title="See all projects in Women's History">Women's History</a></li>
+			<li><a href="/browse?filter=collection:4" title="See all projects in World Cultures">World Cultures</a></li>
+		</ul>
+	</li>
+	<li class="museums-and-archives"><a href="javaScript:void(0)" style="cursor:default" title="Browse Projects by Museums and Archives">Active Museums and Archives</a>
+		<ul class="submenu">
+			<li><a href="/browse?filter=owner:3" title="See all projects in Archives of American Art">Archives of American Art</a></li>
+			<li><a href="/browse?filter=owner:16" title="See all projects in Freedmen's Bureau">Freedmen's Bureau</a></li>
+			<li><a href="/browse?filter=owner:11" title="See all projects in Harvard-Smithsonian Center for Astrophysics">Harvard-Smithsonian Center for Astrophysics</a></li>
+			<li><a href="/browse?filter=owner:22" title="See all projects in National Portrait Gallery">National Portrait Gallery</a></li>
+			<li><a href="/browse?filter=owner:14" title="See all projects in Smithsonian National Air and Space Museum Archives">Smithsonian National Air and Space Museum Archives</a></li>
+			<li class="all"><a href="/browse?filter=all" title="See all projects">See All Projects</a></li>
+		</ul>
+	</li>
+</ul></div><div class="clearfix"></div></div>
+<div><a href="/search">Search</a></div>
+<div><a href="/about">About</a></div>
+<div><a href="/tips">Tips</a></div>
+<div><a href="/blog">Blog</a></div>
+      </div>
+    </div>
+    <div id="header-bottom" class="clearfix">
+      <div class="tagline">Smithsonian Digital Volunteers: <span>Transcription Center</span></div>
+      <div class="menu">
+        <a href="/user/login?destination=project/7430">Login</a><a href="/user/register">Signup</a>      </div>
+    </div>
+  </div>
+</div>
+
+  
+    <div class="main-content clearfix container_12">
+    <div class="">
+
+      
+              <div id="breadcrumb"><div class="breadcrumb"><a href="/">Home</a> &#62; <a href="/browse">Projects</a> &#62; <a href="/browse?filter=owner%3A8">Smithsonian Institution Archives</a></div></div>
+      
+                    <h1 class="title" id="page-title" >Florence M. Bailey – Diary  1887</h1>
+            
+      
+              <div class="tabs clearfix">
+                  </div>
+                  
+      
+      
+      <div id="the-content" class="actual-content">
+          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    
+
+	<div id="project-section-about" class="clearfix">
+		<div class="grid_8 alpha">
+			<div class="project-details white-box">
+				<h2>About the Project</h2>
+				<div class="project-details-content">
+					<div class="project-description hidden"><p style="margin-bottom: 5px;">What kind of passion drives a person to pioneering efforts over and over again? Florence M. Bailey (1863-1948) might be a good example. Devoted to the study and protection of birds, she started the Smith College Audubon Society while at the college. By the time she was twenty-two, she had become the first female associate member of the Ornithologists Union (1885). An amateur ornithologist, she would go on to even more firsts, always advocating for the use of binoculars, not shotguns, to observe birds.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">Please help us transcribe Florence's 1887 diary and get a glimpse into her life two years after becoming a member of the Ornithologists Union.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">See <a href="https://transcription.si.edu/project/7448" target=blank>other transcribed journals</a> to get a sense of her handwriting, or explore her <a href="http://siarchives.si.edu/collections/siris_arc_217572" target=blank>personal papers</a> held by the Smithsonian Institution Archives.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">Born in Locust Grove, New York during the Civil War, Florence Merriam Bailey (1863-1948), devoted her life to the study and protection of birds. From her work in ornithology she authored over ten books, including several field guides to birds, and close to one hundred articles. Though interested in birds as a child, she gained recognition as a naturalist while at Smith College. Disgusted by the use of feathers and whole birds in fashion, she started the Smith College Audubon Society.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">Her later accomplishments include establishing the Washington, D.C., Audubon Society and becoming the first female associate member of the Ornithologists Union (1885). Within that organization she was the both the first female fellow (1929) and the first female recipient of the Brewster Medal (1931). In 1908 a kind of California Mountain Chickadee was named Parus gambeli baileyae in her honor.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">Bailey's relations with prominent scientists augmented her own distinguished career. C. Hart Merriam, her brother, was the first chief of the U.S. Bureau of Biological Survey, as well as a co-founder of the National Geographic Society. His work also led to Florence's introduction, and subsequent marriage, to fellow Bureau naturalist, Vernon Bailey. From their travels to the Western United States the Bailey's produced several works on the distinctive, and largely unexplored, flora and fauna in that region. As an amateur ornithologist Florence Bailey was at the forefront of the movement to use binoculars, rather than shotguns, to observe birds. She died in Washington, D.C., on September 22, 1948.</p></div>
+					<div class="project-summary"><p style="margin-bottom: 5px;">What kind of passion drives a person to pioneering efforts over and over again? Florence M. Bailey (1863-1948) might be a good example. Devoted to the study and protection of birds, she started the Smith College Audubon Society while at the college. By the time she was twenty-two, she had become the first female associate member of the Ornithologists Union (1885). An amateur ornithologist, she would go on to even more firsts, always advocating for the use of binoculars, not shotguns, to observe birds.</p><p style="margin-bottom: 5px;"></p><p style="margin-bottom: 5px;">Please help us transcribe Florence's 1887 diary and get a glimpse into her life two years after becoming a member of the Ornithologists Union.</p></div>
+					<div style="margin-top: 1em;"><form action="/view/7430/POSITION" method="get"><a href="https://collections.si.edu/search/record/edanmdm:siris_arc_217572" target="_blank" class="link-csc">Catalog Record</a> | <a href="https://edan.si.edu/transcription/pdf_files/7430.pdf" class="link-pdf" onclick="_gaq.push([&#039;_trackEvent&#039;, &#039;Download&#039;, &#039;Smithsonian Institution Archives&#039;, &#039;7430.pdf&#039;]);">Download PDF</a> | <label class="il" for="gotopage">Go to Page</label> <input type="text" id="gotopage" name="position" value="" size="4" /> <input type="submit" value="Go" /></form></div>
+				</div>
+			</div>
+			<div class="grid_8 alpha omega" id="asset-group-controls">
+				<div class="white-box" style="padding: 4px;">
+					<span style="line-height: 1em; margin-bottom: 4px;">Show pages needing (scroll down to load more):</span> 
+					<a href="?status=transcription" class="asset-button transcription">Transcription</a>
+					<a href="?status=review" class="asset-button review">Review</a>
+					<a href="?assetNotes=1" class="asset-button ">Notes</a>
+					 | <a href="?status" class="asset-button active">All</a>
+				</div>
+			</div>
+		</div><div id="project-section-actions" class="action-tracks grid_4 omega">
+		<div class="grid_4 alpha omega"><div class="white-box" style="padding: 5px;"><h2>Completed!</h2></div></div>
+
+		<div class="grid_4 alpha omega completion-progress">Project Progress <a href="#text-stats" class="text-stats-trigger">(details)</a>
+<div class="meter-wrapper"><div class="meter-status-8" style="width: 100%;"></div></div><div id="text-stats" class="text-status-wrapper"><strong class="text-status-8">87</strong>pages completed</div>
+		</div>
+		<div class="grid_2 alpha"><div class="contribution-stat white-box">
+			<p class="contribution-head">47</p>
+			<p class="contribution-subhead">contributing<br/>members</p>
+		</div></div>
+		<div class="grid_2 omega"><div class="contribution-stat white-box">
+			<p class="contribution-head">87</p>
+			<p class="contribution-subhead">total<br/>pages</p>
+		</div></div></div>
+	</div>
+
+	<div id="project-section-assets" class="clearfix">
+		<div class="asset-group clearfix assets-infinite-scroll" id="infinite-scroll-content">
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="2:2">
+					<a href="/view/7430/SIA-SIA2014-03840" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03840" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="5:15">
+					<a href="/view/7430/SIA-SIA2014-03841" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03841" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="4:7">
+					<a href="/view/7430/SIA-SIA2014-03842" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03842" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="2:5">
+					<a href="/view/7430/SIA-SIA2014-03843" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03843" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="6:22">
+					<a href="/view/7430/SIA-SIA2014-03844" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03844" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="3:27">
+					<a href="/view/7430/SIA-SIA2014-03845" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03845" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="3:9">
+					<a href="/view/7430/SIA-SIA2014-03846" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03846" width="210px" />
+						</div>
+					</a>
+				</div>
+				<div class="asset grid_3 transcribr_site-status-8" data-stats="2:10">
+					<a href="/view/7430/SIA-SIA2014-03847" class="white-box">
+						<div class="act-caption green">Complete<span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+						<div class="asset-image-wrap">
+							<img alt="" src="https://ids.si.edu/ids/deliveryService?max_w=210&#38;id=SIA-SIA2014-03847" width="210px" />
+						</div>
+					</a>
+				</div>
+<a href="/project/7430?view&amp;status=&amp;page=1" class="element-focusable infinite-scroll-next-page active">Next Page</a>
+		</div>
+	</div>
+
+	<div id="project-asset-mouseover" class="white-box">
+		<div class="stats">
+			<div class="stats-left"><span>12</span><br/>Total Users</div>
+			<div class="stats-right"><span>4</span><br/>Contributions</div>
+		</div>
+	</div>  </div>
+</div>
+  </div>
+      </div>
+
+          </div>
+  </div>
+
+
+<footer>
+  <div id="footer-wrapper">
+    <div id="footer-links">
+      <a href="https://www.si.edu">&copy; 2022 SMITHSONIAN</a>
+      <a href="https://collections.si.edu">COLLECTIONS</a>
+      <a href="https://www.si.edu/termsofuse">TERMS OF USE</a>
+      <a href="https://www.si.edu/privacy">PRIVACY</a>
+      <a href="https://get.adobe.com/reader/">Download Adobe Reader</a>
+    </div>
+    <div id="footer-social-links"></div>
+  </div>
+</footer>
+
+  <!-- START OF SmartSource Data Collector TAG -->
+  <!-- Copyright (c) 1996-2013 Webtrends Inc.  All rights reserved. -->
+  <!-- Version: 9.4.0 -->
+  <!-- Tag Builder Version: 4.1  -->
+  <!-- Created: 8/1/2013 7:43:34 PM -->
+  <script src="/sites/all/themes/si_tsc/scripts/webtrends.js" type="text/javascript"></script>
+  <!-- ----------------------------------------------------------------------------------- -->
+  <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+  <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+  <!-- ----------------------------------------------------------------------------------- -->
+  <script type="text/javascript">
+    //<![CDATA[
+    var _tag=new WebTrends();
+    _tag.dcsGetId();
+    //]]>
+  </script>
+  <script type="text/javascript">
+    //<![CDATA[
+    _tag.dcsCustom=function(){};
+    _tag.dcsCollect();
+    //]]>
+  </script>
+  <noscript>
+    <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//logs1.smithsonian.museum/dcsu7poqvadzpxbd1amejqspv_4f1q/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=transcription.si.edu"/></div>
+  </noscript>
+  <!-- END OF SmartSource Data Collector TAG -->
+	</body>
+</html>
