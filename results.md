@@ -28,8 +28,6 @@ So i created a corpus using voyant tool
 > Besides looking at word frequency and contexts, the correlation tool showed several correlation and their significance.
 ![Screenshot of the correlation tool](correlation.png)
 
-
-> Exploring this archive digitally led me to form many questions— some that could be answered from exploring within the corpus, and some that I would need further time and resource to research. I could create an entire project at this point based around my discoveries in Florence M. Bailey diary, and how they correlated with the experiences of other prominent female artists active at the same time as she was, and this could be done once again through using digital history to exploring even more. But of course, that’s a bit too ambitious for a week so, for now, this’ll have to do.
-
+> I finally decided to create a static website to display my work following the tutorials and it can be accessed with the url alakemills.github.io
 
 > Exploring this diary archive led me to see clearly the impact of digital history from exploring within the corpus, although I would need further time and resource to research further how Florence M. Bailey's diary correlated with the experiences of other female artists active at the same time as she was, and this could be done once again through using digital history to exploring even more.
